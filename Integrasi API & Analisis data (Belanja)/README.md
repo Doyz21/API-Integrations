@@ -19,6 +19,4 @@
 pip install requests python-dotenv
 python main.py
 
-
-
-Made by Ahmad Sahl Pahlevi 20 March, 2024
+Made by @AhmadSP 20 March, 2024
